@@ -18,5 +18,5 @@ export class User {
     identityNumber: number;
 }
 
-//ubah di macbook apple
+//ubah di macbook apple mongo
 export const UserSchema = SchemaFactory.createForClass(User);
