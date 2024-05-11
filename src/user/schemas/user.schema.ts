@@ -18,9 +18,4 @@ export class User {
     identityNumber: number;
 }
 
-
-
-
-
-
 export const UserSchema = SchemaFactory.createForClass(User);
