@@ -18,5 +18,5 @@ export class User {
     identityNumber: number;
 }
 
-//ubah di apple
+//ubah di macbook
 export const UserSchema = SchemaFactory.createForClass(User);
